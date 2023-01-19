@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Bitcoin &#8211; Info Blockchain &amp; Crypto</title>
+	<atom:link href="./index.html?simply_static_page=72" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Informasi Token Meme &#38; Berita Bitcoin, Altcoin, ICO, IEO,Technology Blockchain, Market &#38; lainnya</description>
+	<lastBuildDate>Thu, 19 Jan 2023 04:08:07 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>SEC Thailand mengeluarkan peraturan baru untuk layanan penyimpanan crypto</title>
+		<link>./../../../sec-thailand/index.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 19 Jan 2023 03:21:43 +0000</pubDate>
+				<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=108</guid>
+
+					<description><![CDATA[Komisi Sekuritas dan Pertukaran (SEC) Thailand mengeluarkan aturan baru untuk layanan kustodian cryptocurrency pada hari Selasa, dengan harapan dapat meningkatkan perlindungan investor. Peraturan baru tersebut mewajibkan penyedia layanan aset virtual dan kustodian crypto untuk membuat rencana darurat untuk keadaan yang &#8230; <a href="./../../../sec-thailand/index.html">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Komisi Sekuritas dan Pertukaran (SEC) Thailand mengeluarkan aturan baru untuk layanan kustodian cryptocurrency pada hari Selasa, dengan harapan dapat meningkatkan perlindungan investor. </p>
+<p>Peraturan baru tersebut mewajibkan penyedia layanan aset virtual dan kustodian crypto untuk membuat rencana darurat untuk keadaan yang tidak terduga, termasuk akses dan risiko. manajemen dan pemeliharaan dompet digital.</p>
+<p>SEC juga telah mengamanatkan perusahaan kripto untuk melakukan audit keamanan, serta investigasi forensik digital jika aset pelanggan terpengaruh.</p>
+<p>Langkah Thailand datang ketika regulator di seluruh dunia telah mempercepat menuju industri cryptocurrency sejak investor kehilangan miliaran dolar karena runtuhnya pertukaran cryptocurrency yang berbasis di Bahama, FTX.com.</p>
+<p>Thailand melarang layanan pinjaman dan taruhan crypto pada bulan September setelah pihak berwenang dikritik karena gagal melindungi investor dari Zipmex, sebuah bursa yang menghentikan sementara penarikan Juli lalu.</p>
+<p>Aturan baru untuk perusahaan crypto dan kustodian mulai berlaku pada hari Senin dan perusahaan telah diberi masa tenggang enam bulan untuk mematuhinya.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>IPFS untuk mendemonstrasikan komunikasi jarak jauh di luar angkasa dengan pesawat ruang angkasa LM 400</title>
+		<link>./../../../ipfs-untuk-mendemonstrasikan/index.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 19 Jan 2023 03:20:02 +0000</pubDate>
+				<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=106</guid>
+
+					<description><![CDATA[IPFS akan menuju ke luar angkasa tahun ini untuk mengurangi latensi antar node yang berkomunikasi di orbit untuk aplikasi blockchain, kata Marta Belcher dari Filecoin Foundation kepada Forkast. Jaringan IPFS bertujuan untuk meminimalkan penundaan melalui struktur &#8220;pengalamatan konten&#8221; untuk meminta &#8230; <a href="./../../../ipfs-untuk-mendemonstrasikan/index.html">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p>IPFS akan menuju ke luar angkasa tahun ini untuk mengurangi latensi antar node yang berkomunikasi di orbit untuk aplikasi blockchain, kata Marta Belcher dari Filecoin Foundation kepada Forkast. Jaringan IPFS bertujuan untuk meminimalkan penundaan melalui struktur &#8220;pengalamatan konten&#8221; untuk meminta data, bukan a struktur berbasis lokasi seperti alamat URL dari Hypertext Transfer Protocol Secure (HTTPS), yang mendukung sebagian besar situs online saat ini.</p>
+<p>Menurut Belcher, model internet saat ini tidak akan berfungsi di luar angkasa karena penundaan yang timbul dari pengambilan data dari server pusat.</p>
+<p>“Jika Anda harus bolak-balik dari Bumi setiap kali Anda mengambil data, jika Anda berada di bulan, itu adalah penundaan beberapa detik. Jika Anda berada di Mars, itu penundaan beberapa menit,” kata Belcher. “Setiap kali Anda mengambil data, itu harus mengambil jalur yang sama persis.”</p>
+<p>Mei lalu, selama Pertemuan Tahunan Forum Ekonomi Dunia, kontraktor pertahanan Lockheed Martin dan Filecoin Foundation mengumumkan kemitraan untuk memulai upaya awal meluncurkan IPFS ke luar angkasa.</p>
+<p>“Misi Demonstrasi Teknologi LM 400 akan menunjukkan bagaimana IPFS dapat membuat jumlah data yang lebih besar dari luar angkasa tersedia untuk berbagai aplikasi berbasis darat dengan cara yang lebih sederhana,” kata Joe Landon, wakil presiden dan manajer umum layanan infrastruktur bulan di Lockheed Martin, dalam sebuah pernyataan. pernyataan pada Selasa.</p>
+<p>Demonstran Teknologi LM 400 dijadwalkan diluncurkan pada awal 2023, menurut situs web Lockheed Martin.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Komisaris CFTC menyerukan peraturan crypto yang lebih jelas</title>
+		<link>./../../../komisaris-cftc-menyerukan/index.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 19 Jan 2023 02:59:12 +0000</pubDate>
+				<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[Gamefi]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=95</guid>
+
+					<description><![CDATA[Pham telah berpartisipasi dalam lebih dari 75 pertemuan tentang peraturan crypto global dan menyoroti bahwa ada “diskusi yang sangat maju yang terjadi di luar Amerika Serikat.” Komisaris juga merekomendasikan agar instrumen keuangan crypto dipegang dengan standar peraturan yang sama dengan &#8230; <a href="./../../../komisaris-cftc-menyerukan/index.html">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Pham telah berpartisipasi dalam lebih dari 75 pertemuan tentang peraturan crypto global dan menyoroti bahwa ada “diskusi yang sangat maju yang terjadi di luar Amerika Serikat.”<br />
+Komisaris juga merekomendasikan agar instrumen keuangan crypto dipegang dengan standar peraturan yang sama dengan instrumen keuangan warisan.</p>
+<p>Dia mencatat bahwa industri harus mendefinisikan aktivitas crypto non-finansial dan mengidentifikasi kerangka peraturan yang sesuai untuk itu.</p>
+<p>Regulator harus berpikir “secara proaktif” tentang memajukan regulasi global. “Yang ingin saya lakukan adalah melihat CFTC dan regulator lainnya memberikan lebih banyak panduan tahun ini dan saya sangat berharap mungkin kita akan melihat lebih banyak kejelasan di Amerika Serikat.”</p>
+<p>Pham juga percaya bahwa peraturan yang lebih jelas dan pertemuan publik dapat mencegah krisis crypto tahun lalu: “Jika kita memiliki pertanyaan publik semacam itu, dapatkah kita mengungkap beberapa keterkaitan ini dan beberapa risiko yang telah menumpuk ini?”<br />
+“Ini menjadi perhatian,” kata komisaris ketika ditanya tentang masalah hukum Gemini dan Genesis, menambahkan bahwa regulator harus berusaha untuk “menggunakan otoritas yang ada untuk memberikan kejelasan yang dibutuhkan sekarang.”</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Genesis, Gemini menghadapi dakwaan AS atas penjualan sekuritas yang tidak terdaftar</title>
+		<link>./../../../genesis-gemini-menghadapi/index.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 19 Jan 2023 02:58:16 +0000</pubDate>
+				<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=92</guid>
+
+					<description><![CDATA[Blockchain teratas dan crypto newInvestor dalam aset digital dapat dimaafkan karena merasa putus asa karena mereka telah menyaksikan nilai kepemilikan mereka meledak dan melihat dana mereka dibekukan dalam bisnis yang — seandainya mereka berpegang pada standar seperti yang diterapkan secara &#8230; <a href="./../../../genesis-gemini-menghadapi/index.html">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Blockchain teratas dan crypto newInvestor dalam aset digital dapat dimaafkan karena merasa putus asa karena mereka telah menyaksikan nilai kepemilikan mereka meledak dan melihat dana mereka dibekukan dalam bisnis yang — seandainya mereka berpegang pada standar seperti yang diterapkan secara rutin di bagian lain dunia. sektor keuangan — tidak akan pernah menikmati kepercayaan seperti itu.</p>
+<p>Seolah-olah investor belum cukup menderita, beberapa hari terakhir telah melihat perusahaan crypto besar lainnya dituduh terlibat dalam praktik yang bahkan tidak mendekati lulus tes mengendus dalam keuangan arus utama. Genesis, yang dimiliki oleh Digital Currency Group, yang telah diselidiki oleh jaksa AS atas dugaan transfer dana, dan pertukaran crypto Gemini, yang didirikan bersama oleh pelarian Westworld, Tyler dan Cameron Winklevoss, telah didakwa menjual sekuritas yang tidak terdaftar.</p>
+<p>Perkembangan terbaru dalam industri yang prinsip pendiriannya adalah transparansi menggarisbawahi perlunya pemikiran ulang yang radikal tentang bagaimana perusahaan dan produk di ruang tersebut dievaluasi sehingga calon investor dan pelanggan dapat membuat keputusan yang tepat sebelum memberikan dana kepada mereka.</p>
+<p>Dengan pemikiran inilah Forkast dengan bangga memainkan perannya dalam meningkatkan iluminasi ke industri yang sejauh ini menghasilkan lebih banyak panas daripada cahaya.</p>
+<p>Kemarin di Davos kami mengumumkan penggabungan kami dengan NFT multi-chain data aggregator CryptoSlam untuk membentuk Forkast Labs, jenis baru platform media dan intelijen data yang berfokus pada Web3.</p>
+<p>Saat Forkast Labs terbentuk dalam beberapa minggu dan bulan mendatang, menawarkan indeks unggulan dan pelaporan intelijen bisnis aset digital berdasarkan data on-chain real-time, kami berharap dapat mengganti kecerdasan dengan analisis, imitasi dengan wawasan, dan setengah kebenaran dengan transparansi.s: SEC tidak menyukai Genesis, Gemini. Solana melonjak. Akankah China memperketat pelukan WeChat Pay dan Alipay untuk mendorong CBDC-nya?</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Pasar: Bitcoin, Ether jatuh karena kekhawatiran ekonomi AS, komentar Fed yang hawkish tentang suku bunga</title>
+		<link>./../../../pasar-bitcoin-ether-2/index.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 19 Jan 2023 02:48:06 +0000</pubDate>
+				<category><![CDATA[Altcoin]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=84</guid>
+
+					<description><![CDATA[Bitcoin dan Ether jatuh Kamis pagi di Asia, bersama dengan sebagian besar 10 cryptocurrency non-stablecoin teratas lainnya karena kekhawatiran tentang arah ekonomi AS dan suku bunga. Harga juga turun semalam setelah AS mengatakan akan mengambil apa yang disebutnya &#8220;tindakan penegakan &#8230; <a href="./../../../pasar-bitcoin-ether-2/index.html">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Bitcoin dan Ether jatuh Kamis pagi di Asia, bersama dengan sebagian besar 10 cryptocurrency non-stablecoin teratas lainnya karena kekhawatiran tentang arah ekonomi AS dan suku bunga. Harga juga turun semalam setelah AS mengatakan akan mengambil apa yang disebutnya &#8220;tindakan penegakan cryptocurrency internasional yang besar.&#8221; Hal ini ternyata melibatkan penangkapan yang relatif mengecewakan pasar dari pemilik Rusia dari bursa terdaftar Hong Kong Bitzlato Ltd., tetapi harga tidak pulih. Bitcoin turun 2,2% menjadi US$20.686 dalam 24 jam hingga pukul 8 pagi di Hong Kong, meskipun masih naik 18,6% selama seminggu kalender terakhir. Ether kehilangan 3,4% menjadi US$1.514 untuk memangkas kenaikannya di minggu yang sama menjadi 9,1%, menurut data dari CoinMarketCap.</p>
+<p>Memecoin Shiba Inu melonjak 6,2% menjadi US$0,0000112, satu-satunya token dalam daftar 10 besar CoinMarketCap berdasarkan kapitalisasi yang naik, membawa kenaikan mingguannya menjadi 22,4%. Momentum ini datang karena investor menunggu rilis Shibarium jaringan layer 2 berbasis Ethereum dalam beberapa minggu mendatang.</p>
+<p>Solana turun 9% menjadi US$27,16, membukukan kerugian terbesar dalam daftar CoinMarketCap, tetapi tetap naik 27,2% untuk minggu ini dan salah satu token dengan kinerja terbaik untuk tahun 2023.<br />
+Polygon turun 5,5% menjadi US$0,94, dan Cardano turun 5,4% menjadi US$0,32, kerugian terbesar kedua dan ketiga setelah Solana.</p>
+<p>Total kapitalisasi pasar crypto selama 24 jam turun 2,4% menjadi US$968,1 miliar, sementara volume perdagangan naik 28,5% menjadi US$61,6 miliar.</p>
+<p>Departemen Kehakiman AS menuduh Bitzlato Ltd. melakukan pencucian uang terkait dengan mata uang kripto senilai US$700 juta dan menangkap pendirinya, Anatoly Legkodymov, di Miami. &#8220;Apakah Anda melanggar hukum kami dari China atau Eropa atau menyalahgunakan sistem keuangan kami dari pulau tropis &#8211; Anda dapat mengharapkan untuk menjawab kejahatan Anda di dalam ruang sidang Amerika Serikat,&#8221; kata Wakil Jaksa Agung Lisa Monaco pada konferensi pers di Departemen Kehakiman, menurut laporan Reuters.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
